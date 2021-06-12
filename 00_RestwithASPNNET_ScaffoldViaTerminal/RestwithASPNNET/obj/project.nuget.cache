@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zb5JTW5HW5tVdv0DX8MGF3X1vzuCXJukkmW5dK70QGV1ZNfKvny3AUdqDIbP89Azlp3xN3dKZV6WFGi6FAIK/w==",
+  "success": true,
+  "projectFilePath": "C:\\REI\\EXXON\\Treinamento Rest API Docker\\RestWithASP-NET\\RestWithASP-NET\\RestwithASPNNET\\RestwithASPNNET\\RestwithASPNNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home_Advanced\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Home_Advanced\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Home_Advanced\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Home_Advanced\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Home_Advanced\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Home_Advanced\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
